@@ -1,4 +1,4 @@
-# GestionDeSofware
+# GSistema de Gestion Academica
 
 DESCRIPCIÓN DEL PROYECTO
 
