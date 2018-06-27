@@ -48,4 +48,17 @@ LISTA DE TAREAS
  
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/EDT.png?raw=true?raw=true "Title")
 
+FORMATO
+
+Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un formato funcional en el que la distribución de roles se maneja de la siguiente manera:
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Formato.png?raw=true?raw=true "Title")
+
+ESTIMACION
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Estimacion.png?raw=true?raw=true "Title")
+
+CRONOGRAMA
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Calendario.png?raw=true?raw=true "Title")
 
