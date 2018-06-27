@@ -60,7 +60,8 @@ ESTIMACION
 
 CRONOGRAMA
 
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Calendario.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C1.JPG?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C2.JPG?raw=true?raw=true "Title")
 
 REGISTRO DE RIESGOS
 
