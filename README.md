@@ -44,3 +44,8 @@ LISTA DE TAREAS
 16.	Despliegue de plataforma. 
 17.	Capacitación de roles.
 
+ EDT
+ 
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/EDT.png?raw=true?raw=true "Title")
+
+
