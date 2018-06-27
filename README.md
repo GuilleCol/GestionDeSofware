@@ -1,4 +1,4 @@
-# GSistema de Gestion Academica
+# Sistema de Gestion Academica
 
 DESCRIPCIÓN DEL PROYECTO
 
