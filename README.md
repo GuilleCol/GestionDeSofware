@@ -6,26 +6,6 @@ DESCRIPCIÓN DEL PROYECTO
 Los colegios en Colombia carecen de integración de la información académica de los estudiantes por lo que se dificulta el movimiento de la información y pone en peligro la integridad de los datos. 
 Además, hay una gran mayoría de colegios que siguen utilizando almacenamiento de información física lo cual genera costos y riesgos innecesarios.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CRITERIOS DE EXITO
 
 1.	La información disponible debe ser encontrada fácilmente y estar disponible para los stakeholder del proyecto según sus necesidades.
