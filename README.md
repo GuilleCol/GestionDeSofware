@@ -64,9 +64,12 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 #REGISTRO DE RIESGOS
 
-
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R1.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R2.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R3.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R4.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R5.JPG?raw=true?raw=true "Title")
+
+
+#METRICA
+
