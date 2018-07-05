@@ -88,10 +88,10 @@ METRICAS POR COMPARACION - ESTIMACION DE MERCADO
 
 METRICA DE COMPETENCIA Y MODELO
 
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/modelo.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Modelo.png?raw=true?raw=true "Title")
 
 METRICA DE PROYECION DE VENTA
 
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/estimacion.png?raw=true?raw=true "Title")
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/estimacion2.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas2.png?raw=true?raw=true "Title")
 
