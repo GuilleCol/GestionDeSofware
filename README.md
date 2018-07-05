@@ -79,5 +79,19 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R5.JPG?raw=true?raw=true "Title")
 
 
-#METRICA
+#METRICAS
+
+METRICAS POR COMPARACION - ESTIMACION DE MERCADO
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/mercado.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/mercado2.png?raw=true?raw=true "Title")
+
+METRICA DE COMPETENCIA Y MODELO
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/modelo.png?raw=true?raw=true "Title")
+
+METRICA DE PROYECION DE VENTA
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/estimacion.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/estimacion2.png?raw=true?raw=true "Title")
 
