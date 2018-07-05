@@ -68,7 +68,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 #DIAGRAMA DE FLUJO
 
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/DIAGRAMA.PNG?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/DIAGRAMA.png?raw=true?raw=true "Title")
 
 #REGISTRO DE RIESGOS
 
