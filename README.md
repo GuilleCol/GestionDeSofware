@@ -95,3 +95,8 @@ METRICA DE PROYECION DE VENTA
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas.png?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas2.png?raw=true?raw=true "Title")
 
+#PROCESO BASADO EN DEVOPS
+
+
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/BPMN Sistema de gestión académica.png?raw=true?raw=true "Title")
+
