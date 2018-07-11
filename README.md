@@ -62,15 +62,17 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C1.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C2.JPG?raw=true?raw=true "Title")
 
-# RBS
+# RIESGOS
+
+### RBS
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/RBS.png?raw=true?raw=true "Title")
 
-# DIAGRAMA DE FLUJO
+### DIAGRAMA DE FLUJO
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/DIAGRAMA.png?raw=true?raw=true "Title")
 
-# REGISTRO DE RIESGOS
+### REGISTRO DE RIESGOS
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R1.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R2.JPG?raw=true?raw=true "Title")
