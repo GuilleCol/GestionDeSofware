@@ -118,3 +118,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 ### CASO DE PRUEBA
 
+# DOCOMUENTACION DE BASE DE DATOS
+
+[Plan de Pruebas](https://github.com/GuilleCol/SGA/blob/master/BasedeDatos/readmeB.md)
+
