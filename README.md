@@ -63,7 +63,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 # ESTIMACION
 
-![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Estimacion.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ESTIMACION.jpg?raw=true?raw=true "Title")
 
 # CRONOGRAMA
 
