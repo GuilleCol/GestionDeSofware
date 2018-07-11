@@ -120,5 +120,5 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 # DOCOMUENTACION DE BASE DE DATOS
 
-[Plan de Pruebas](https://github.com/GuilleCol/SGA/blob/master/BasedeDatos/readmeB.md)
+[Base de Datos](https://github.com/GuilleCol/SGA/blob/master/BasedeDatos/readmeB.md)
 
