@@ -1,5 +1,13 @@
 # Sistema de Gestion Academica
 
+
+#### Integrantes del equipo
+##### - Camilo Canizales Santana -20151020039
+##### - Kevin Puentes Yaya - 20151020040
+##### - Santiago Alvarez Perez - 20152020560
+##### - Luid Gutierrez Velandia -20152020922
+##### - David Gaona Poveda -20152020929
+
 ### DESCRIPCIÓN DEL PROYECTO
 
 
