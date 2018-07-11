@@ -1,12 +1,12 @@
 # Sistema de Gestion Academica
 
-#DESCRIPCIÓN DEL PROYECTO
+### DESCRIPCIÓN DEL PROYECTO
 
 
 Los colegios en Colombia carecen de integración de la información académica de los estudiantes por lo que se dificulta el movimiento de la información y pone en peligro la integridad de los datos. 
 Además, hay una gran mayoría de colegios que siguen utilizando almacenamiento de información física lo cual genera costos y riesgos innecesarios.
 
-#CRITERIOS DE EXITO
+### CRITERIOS DE EXITO
 
 1.	La información disponible debe ser encontrada fácilmente y estar disponible para los stakeholder del proyecto según sus necesidades.
 2.	El ingreso en la plataforma debe ser rápido y eficaz
@@ -15,15 +15,15 @@ Además, hay una gran mayoría de colegios que siguen utilizando almacenamiento 
 5.	Garantizar la atomicidad, Integridad, Aislamiento y Persistencia de los datos en la plataforma
 6.	El sistema debe ser fácilmente escalable.
 
-#OBJETIVO DEL PROYECTO
+### OBJETIVO DEL PROYECTO
 
 Brindar a la organización estudiantil un sistema de gestión académica que soporte el crecimiento de esta y facilite su naturaleza de manera simple y a través de una proforma intuitiva, además de promover un acceso rápido y segundo de la información.
 
-#ALCANCE DEL PROYECTO 
+### ALCANCE DEL PROYECTO 
 
 Diseño e implementación de una plataforma académica que permita el manejo de la información por parte de todos los stakeholder involucrados, dentro de esta se podrá gestionar la información de cursos, notas, historia académica y nomina correspondiente.
 
-#LISTA DE TAREAS
+### LISTA DE TAREAS
 
 1.	Consulta de los datos actuales del colegio.
 2.	Verificación de la funcionalidad actual.
@@ -43,34 +43,34 @@ Diseño e implementación de una plataforma académica que permita el manejo de 
 16.	Despliegue de plataforma. 
 17.	Capacitación de roles.
 
- #EDT
+ # EDT
  
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/EDT.png?raw=true?raw=true "Title")
 
-#ORGANIGRAMA
+# ORGANIGRAMA
 
 Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un formato funcional en el que la distribución de roles se maneja de la siguiente manera:
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Formato.png?raw=true?raw=true "Title")
 
-#ESTIMACION
+# ESTIMACION
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Estimacion.png?raw=true?raw=true "Title")
 
-#CRONOGRAMA
+# CRONOGRAMA
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C1.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/C2.JPG?raw=true?raw=true "Title")
 
-#RBS
+# RBS
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/RBS.png?raw=true?raw=true "Title")
 
-#DIAGRAMA DE FLUJO
+# DIAGRAMA DE FLUJO
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/DIAGRAMA.png?raw=true?raw=true "Title")
 
-#REGISTRO DE RIESGOS
+# REGISTRO DE RIESGOS
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R1.JPG?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R2.JPG?raw=true?raw=true "Title")
@@ -79,24 +79,23 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/R5.JPG?raw=true?raw=true "Title")
 
 
-#METRICAS
+# METRICAS
 
-METRICAS POR COMPARACION - ESTIMACION DE MERCADO
+### METRICAS POR COMPARACION - ESTIMACION DE MERCADO
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/mercado.png?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/mercado2.png?raw=true?raw=true "Title")
 
-METRICA DE COMPETENCIA Y MODELO
+### METRICA DE COMPETENCIA Y MODELO
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Modelo.png?raw=true?raw=true "Title")
 
-METRICA DE PROYECION DE VENTA
+### METRICA DE PROYECION DE VENTA
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas.png?raw=true?raw=true "Title")
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ventas2.png?raw=true?raw=true "Title")
 
-#PROCESO BASADO EN DEVOPS
-
+# PROCESO BASADO EN DEVOPS
 
 ![Alt text](https://github.com/GuilleCol/SGA/blob/master/BPMN%20Sistema%20de%20gesti%C3%B3n%20acad%C3%A9mica.png?raw=true?raw=true "Title")
 
