@@ -64,7 +64,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 # REQUERIMIENTOS
 
 La etapa de requerimientos la puede encontrar en el siguiente documento:
-[Requqrimientos](https://github.com/GuilleCol/SGA/blob/master/Requerimientos.md)
+[Requerimientos](https://github.com/GuilleCol/SGA/blob/master/Requerimientos.md)
 
 # ESTIMACION
 
