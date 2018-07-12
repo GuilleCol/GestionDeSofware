@@ -61,6 +61,11 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/Formato.png?raw=true?raw=true "Title")
 
+# REQUERIMIENTOS
+
+La etapa de requerimientos la puede encontrar en el siguiente documento:
+[Requqrimientos](https://github.com/GuilleCol/SGA/blob/master/Requerimientos.md)
+
 # ESTIMACION
 
 ![Alt text](https://github.com/GuilleCol/GestionDeSofware/blob/master/ESTIMACION.jpg?raw=true?raw=true "Title")
