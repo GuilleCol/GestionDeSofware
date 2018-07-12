@@ -110,7 +110,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 ![Alt text](https://github.com/GuilleCol/SGA/blob/master/BPMN%20Sistema%20de%20gesti%C3%B3n%20acad%C3%A9mica.png?raw=true?raw=true "Title")
 
 # PLAN SQA
-[SQA](https://github.com/GuilleCol/SGA/blob/master/sqa.jpeg)
+![Alt text](https://github.com/GuilleCol/SGA/blob/master/sqa.jpeg?raw=true?raw=true "Title")
 
 # PRUEBAS
 
