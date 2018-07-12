@@ -122,3 +122,7 @@ Para desarrollar el proyecto de una manera adecuada se ha decidido utilizar un f
 
 [Base de Datos](https://github.com/GuilleCol/SGA/blob/master/BasedeDatos/readmeB.md)
 
+# FUNCIONAMIENTO DE LA PLATAFORMA
+
+Disponible en https://youtu.be/OJ058yBf1rE
+
